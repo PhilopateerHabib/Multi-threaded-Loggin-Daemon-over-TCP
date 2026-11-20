@@ -1,0 +1,2 @@
+/usr/bin/ar qc libIPCLibrary.a CMakeFiles/IPCLibrary.dir/IPCReceiver.cpp.o CMakeFiles/IPCLibrary.dir/IPCSender.cpp.o
+/usr/bin/ranlib libIPCLibrary.a

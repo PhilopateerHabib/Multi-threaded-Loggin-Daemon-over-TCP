@@ -1,0 +1,1 @@
+/home/philo/x-tools/aarch64-rpi4-linux-gnu/bin/aarch64-rpi4-linux-gnu-g++ CMakeFiles/math_app.dir/Math.cpp.o CMakeFiles/math_app.dir/Math_operations.cpp.o -o math_app  -lrt ../../../MathApp/src/../../build/IPCLibrary/src/libIPCLibrary.a 

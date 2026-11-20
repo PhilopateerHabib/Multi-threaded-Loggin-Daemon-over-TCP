@@ -1,0 +1,12 @@
+Socket_Port_Number: 12345
+Number_of_Applications: 2
+Instances:
+  - App_Name: Math
+    Queue_Name: /Math_Msg_Que
+    Receiver_Type: synchronous
+  - App_Name: Looper
+    Queue_Name: /Looper_Msg_Que
+    Receiver_Type: synchronous
+
+
+

@@ -1,0 +1,4 @@
+/home/philo/HDD/Jesus/Capstone_Project/bin_rpi/ServerApp
+/home/philo/HDD/Jesus/Capstone_Project/bin_rpi/math_app
+/home/philo/HDD/Jesus/Capstone_Project/bin_rpi/looper_app
+/home/philo/HDD/Jesus/Capstone_Project/bin_host/client_App
